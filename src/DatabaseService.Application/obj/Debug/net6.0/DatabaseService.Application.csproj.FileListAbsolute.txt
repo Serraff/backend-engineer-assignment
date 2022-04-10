@@ -1,0 +1,12 @@
+D:\CodeRepo\DatabaseService.Application\bin\Debug\net6.0\DatabaseService.Application.deps.json
+D:\CodeRepo\DatabaseService.Application\bin\Debug\net6.0\DatabaseService.Application.dll
+D:\CodeRepo\DatabaseService.Application\bin\Debug\net6.0\DatabaseService.Application.pdb
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.csproj.AssemblyReference.cache
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.AssemblyInfoInputs.cache
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.AssemblyInfo.cs
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.csproj.CoreCompileInputs.cache
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.dll
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\refint\DatabaseService.Application.dll
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\DatabaseService.Application.pdb
+D:\CodeRepo\DatabaseService.Application\obj\Debug\net6.0\ref\DatabaseService.Application.dll

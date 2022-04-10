@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8F/A6b8u1f0og9bdykBCDIpY+DLX6x00esiMSP2k3Nk=",
+  "Source": "DatabaseService.API.Default",
+  "BasePath": "_content/DatabaseService.API.Default",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
